@@ -9,7 +9,7 @@ const Main = () => {
 	return (
 		<div className={styles.main_container}>
 			<nav className={styles.navbar}>
-				<h1>Welcome to Osiz Technology</h1>
+				<h1>Welcome to  Technology</h1>
 				<button className={styles.white_btn} onClick={handleLogout}>
 					Logout
 				</button>
