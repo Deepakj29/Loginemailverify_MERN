@@ -14,6 +14,9 @@ const Main = () => {
 					Logout
 				</button>
 			</nav>
+				<div className={styles.box}>
+				<h1>Technology for future</h1>
+			</div>	
 		</div>
 	);
 };
