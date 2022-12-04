@@ -25,3 +25,12 @@
 	cursor: pointer;
 	margin-right: 20px;
 }
+.box{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: rgb(68, 7, 251);
+	font-size: 40px;
+	font-family: 'Dancing Script', cursive;
+	padding-top: 200px;
+}
